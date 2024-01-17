@@ -1,0 +1,2 @@
+default:
+	elixir simple.exs

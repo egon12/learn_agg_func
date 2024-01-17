@@ -1,0 +1,2 @@
+start:
+	bash thetel.sh
